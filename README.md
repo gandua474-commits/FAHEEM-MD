@@ -3,7 +3,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <h1 align="center">
-  <img src="https://files.catbox.moe/n8t7wb.jpg" alt="𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/snae53.jpg" alt="𝙁𝘼𝙃𝙀𝙀𝙈-𝙈𝘿" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
