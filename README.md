@@ -83,16 +83,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/samcuxx/samcuxx/output/github-snake.svg" />
 </picture>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 📝 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
-🎯 This bot is made for **Learning & Fun purposes only**.
-
-✨ Enjoy responsibly and respect the creator’s work.  
-
----
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h2 align="center">
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">𝐅𝐀𝐇𝐄𝐄𝐌-𝐌𝐃</span>✨🌈
-</h2>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<div align="center">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+;SPECIAL+THANKS+FOR+VISTING+&#127872)]([https://github.com/MFaheem01](https://github.com/MFaheem01))
+
+</div>
