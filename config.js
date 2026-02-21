@@ -7,13 +7,13 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
 // add your Session Id 
-AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY FAHEEM-MD 🇵🇰*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*sᴇᴇɴ ʙʏ ғᴇᴇᴍᴏ 💍🎊*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "false",
 // set true false for anti delete     
@@ -33,11 +33,9 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/snae53.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "FAHEEM-MD",
+BOT_NAME: process.env.BOT_NAME || "ғᴀʜᴇᴇᴍ-ᴍᴅ",
 // add bot namw here for menu
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-// true to get auto status react
-STICKER_NAME: process.env.STICKER_NAME || "FAHEEM-MD",
+STICKER_NAME: process.env.STICKER_NAME || "ғᴀʜᴇᴇᴍ-ᴍᴅ",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -47,7 +45,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "923337862496",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "FAHEEM-MD",
+OWNER_NAME: process.env.OWNER_NAME || "ғᴀʜᴇᴇᴍ-ᴍᴅ",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ғᴀʜᴇᴇᴍ-ᴍᴅ*",
 // add bot owner name    
