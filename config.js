@@ -84,3 +84,4 @@ AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
 ANTI_CALL: process.env.ANTI_CALL || "false"
 // make it true for auto call reject 
 };
+ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY || "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",
