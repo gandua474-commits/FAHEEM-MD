@@ -54,18 +54,15 @@
 </p>
 
 <!-- Railway -->
-<p align="center">
-  <a href="https://railway.app/new/template?template=https://github.com/feemo0/FAHEEM-MD">
-    <img src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  </a>
-</p>
-
-<!-- Render -->
-<p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/feemo0/FAHEEM-MD">
-    <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  </a>
-</p>
+<a href="https://replit.com/github/feemo0/FAHEEM-MD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a>
+      <!-- Koyeb -->
+     <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/feemo0/FAHEEM-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a>
+      <!-- Railway -->
+      <a href="https://railway.app/new/template?template=https://github.com/feemo0/FAHEEM-MD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a>
+      <!-- Render (blue color theme) -->
+      <a href="https://render.com/deploy?repo=https://github.com/feemo0/FAHEEM-MD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a>
+      <!-- Netlify -->
+      <a href="https://app.netlify.com/start/deploy?repository=https://github.com/feemo0/FAHEEM-MD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a>
 
 
 <!-- ❌ RENDER SECTION DELETED AS REQUESTED -->
