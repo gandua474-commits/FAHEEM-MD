@@ -46,11 +46,27 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 𝐍𝐎𝐖 
+<!-- Koyeb -->
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/feemo0/FAHEEM-MD">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
+  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/feemo0/FAHEEM-MD&branch=main&name=faheem-md">
+    <img src="https://img.shields.io/badge/Deploy-Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
+
+<!-- Railway -->
+<p align="center">
+  <a href="https://railway.app/new/template?template=https://github.com/feemo0/FAHEEM-MD">
+    <img src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  </a>
+</p>
+
+<!-- Render -->
+<p align="center">
+  <a href="https://render.com/deploy?repo=https://github.com/feemo0/FAHEEM-MD">
+    <img src="https://img.shields.io/badge/Deploy-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+</p>
+
 
 <!-- ❌ RENDER SECTION DELETED AS REQUESTED -->
 
